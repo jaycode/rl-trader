@@ -9,3 +9,8 @@ To do this, a set of double-facing application needs to be build. So far I have 
 Read the accompanying "RLTrading-UdacityMLCapstone.pdf" for more information about the Quant system.
 
 Let me know if you wish to help or have any question.
+
+## TODOs
+
+- Work on Quantopian-facing system.
+- Replace the back testing and commission parts with [zipline](https://github.com/quantopian/zipline).
